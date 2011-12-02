@@ -1,0 +1,5 @@
+M2Crypto.egg-info/
+SWIG/_m2crypto.py
+SWIG/_m2crypto_wrap.c
+build/
+dist/
